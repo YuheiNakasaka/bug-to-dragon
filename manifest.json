@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Bug To Dragon",
+  "description": "Replace bug to dragon",
+  "version": "1.0.0",
+  "permissions": [
+    "tabs","*://*/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["script.js"],
+      "run_at": "document_end"
+    }
+  ]
+}

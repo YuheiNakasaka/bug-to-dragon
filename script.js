@@ -1,0 +1,1 @@
+document.body.innerHTML = document.body.innerHTML.replace(/Bug/g, 'Dragon').replace(/bug/g, 'dragon').replace(/バグ/g, 'ドラゴン').replace(/ばぐ/g, 'どらごん');
