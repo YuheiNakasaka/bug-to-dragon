@@ -6,6 +6,6 @@ Inspired by [バグをドラゴンと呼ぶ運用を始めて1ヶ月くらいた
 
 [バグ - wikipedia](http://ja.wikipedia.org/wiki/%E3%83%90%E3%82%B0)
 
-![http://i.imgur.com/f1qniQw.png](http://imgur.com/f1qniQw)
+![http://i.imgur.com/f1qniQw.png](http://i.imgur.com/f1qniQw.png)
 
 Download the crx binary from Releases. To install the extension, open the chrome://extensions page and drag and drop the .crx file from the Downloads.
