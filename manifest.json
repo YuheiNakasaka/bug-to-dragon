@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Bug To Dragon",
   "description": "Replace bug to dragon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "permissions": [
     "tabs","*://*/*"
   ],
